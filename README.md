@@ -34,8 +34,8 @@ O **Conversor de Moeda** é um projeto para converter valores entre diferentes m
 ## 🧰 Tecnologias utilizadas
 
 * **Linguagem:** Java
-* **Requisições HTTP (se aplicável):** `HttpClient`, `OkHttp`, ou outra biblioteca
-* **Processamento de JSON:** GSON, Jackson ou similar
+* **Requisições HTTP:** `HttpClient`
+* **Processamento de JSON:** GSON
 * **Formatação de números:** `DecimalFormat` ou classes de formatação nativas do Java
 
 ---
